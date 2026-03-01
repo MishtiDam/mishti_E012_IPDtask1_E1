@@ -1,0 +1,47 @@
+Info: Processing symbol 'BZ1:Buzzer_Beeper:Buzzer_12x9.5RM7.6'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm'.
+Info: Processing symbol 'C3:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'C4:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'C5:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'C6:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'C7:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'C8:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm'.
+Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'C12:Capacitor_THT:CP_Radial_D7.5mm_P2.50mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D8.0mm'.
+Info: Processing symbol 'D2:LED_THT:LED_D8.0mm'.
+Info: Processing symbol 'FB1:Ferrite_THT:LairdTech_28C0236-0JW-10'.
+Info: Processing symbol 'J1:Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal'.
+Info: Processing symbol 'U4:Package_DIP:DIP-16_W7.62mm'.
+Info: Processing symbol 'U5:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'J2:Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_8-GF-7,62_1x08_P7.62mm_Vertical_ThreadedFlange_MountHole'.
+Info: Processing symbol 'J3:Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_8-GF-7,62_1x08_P7.62mm_Vertical_ThreadedFlange_MountHole'.
+Info: Processing symbol 'J4:Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal'.
+Info: Processing symbol 'Y1:Crystal:Crystal_C26-LF_D2.1mm_L6.5mm_Vertical'.
+Info: Total warnings: 4, errors: 0.
+Info: Processing symbol 'J5:Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_2-GF-7,62_1x02_P7.62mm_Vertical_ThreadedFlange_MountHole'.
+Info: Processing symbol 'J6:Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_2-GF-7,62_1x02_P7.62mm_Vertical_ThreadedFlange_MountHole'.
+Info: Processing symbol 'J7:Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole'.
+Info: Processing symbol 'J8:Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_8-GF-7,62_1x08_P7.62mm_Vertical_ThreadedFlange_MountHole'.
+Info: Processing symbol 'J14:Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J16:Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_MEC_5GSH9'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'U1:Package_DIP:DIP-28_W7.62mm'.
+Info: Processing symbol 'U2:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+
+
+Warning: No net found for component J1 pad MP (no pin MP in symbol).
+Warning: No net found for component J1 pad MP (no pin MP in symbol).
+Warning: No net found for component J4 pad MP (no pin MP in symbol).
+Warning: No net found for component J4 pad MP (no pin MP in symbol).
+
+
+Info: Total warnings: 4, errors: 0.
